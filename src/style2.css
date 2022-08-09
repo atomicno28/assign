@@ -1,0 +1,101 @@
+
+
+ul.sm
+{
+    list-style-type: none;
+    margin-top: 11px;
+    margin-right:400px;
+    margin-bottom: -11px;
+    display: flex;
+    gap: 1px;
+    padding-left: 0px;
+    justify-content:space-around;
+}  
+
+.tango
+{
+    font-family: 'Tiro Gurmukhi';
+    color: grey;
+    font-size: 21px;
+}
+.chng 
+{
+    font-family: 'Tiro Gurmukhi';
+    margin-top: 0px;
+    font-size: 71px;
+    position: relative;
+    top: 17px;
+    right: 20px;
+}
+.mng 
+{
+    position: relative;
+    bottom: 62px;
+    left: 21px;
+}
+.dng 
+{
+    font-size:medium;
+    position:relative;
+    bottom: 82px;
+    left: 21px;
+}
+
+.us 
+{
+    font-family: 'Tiro Gurmukhi';
+    margin-top: 0px;
+    font-size: 71px;
+    position: relative;
+    bottom: 19px;
+    left: 7px;
+}
+
+.plus, .minus
+{
+    background: transparent;
+    color:aliceblue;
+    border-radius: 50%;
+    border-width: 0px;
+    font-size: 1.9rem;
+}
+.plus 
+{
+    position: relative;
+    top: 28px;
+    right: 23px;
+}
+.minus 
+{
+    position: relative;
+    bottom: 58px;
+    right: 20px;
+}
+.bt 
+{
+    text-align: right;
+    padding: 11px;
+    background-color: #D03000;
+    border-radius: 9%;
+    font-size: 1.6rem;
+    font-family: 'Tiro Gurmukhi';
+    color:aliceblue;
+    border-color: #D03000;
+    box-shadow: black;
+    margin-top: 12px;
+    margin-bottom:9px;
+}
+
+.book 
+{
+     position: absolute;
+    left: 1121px;
+    bottom: 60px;
+}
+
+.ddd 
+{
+    font-family:'Tiro Gurmukhi' ;
+    font-size: 19px;
+    margin-bottom: 5px;
+}
